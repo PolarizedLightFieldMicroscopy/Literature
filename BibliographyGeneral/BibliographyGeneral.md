@@ -1,3 +1,1 @@
-# General bibliography Folder
-
-For the list of PDF files, see entries in Literature/BibliographyGeneral.md
+# This folder contains PDF files of the list in Literature/BibliographyGeneral.md
