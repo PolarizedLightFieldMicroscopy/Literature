@@ -1,7 +1,7 @@
 # Bibliography RO Lab
 
 **TranMicrResTechn2020.pdf**  
-Tran, M. T. and Oldenbourg, R. (2021). An experimental method to characterize the relationship between aperture image and ray directions in microscope optics. Microsc. Res. Tech., 84(4):668-674. https://doi.org/10.1002/jemt.23625
+Tran, M. T. and Oldenbourg, R. (2020). An experimental method to characterize the relationship between aperture image and ray directions in microscope optics. Microsc. Res. Tech., 84(4):668-674. https://doi.org/10.1002/jemt.23625
 
 **TranJMicrosc2018.pdf**  
 Tran, M. T. and Oldenbourg, R. (2018). Mapping birefringence in three dimensions using polarized light field microscopy: the case of the juvenile clamshell. J. Microsc., 271(3):315-324. https://doi.org/10.1111/jmi.12721
