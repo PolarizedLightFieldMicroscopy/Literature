@@ -2,9 +2,6 @@
 
 As you add one or more PDF files of articles to the folder "BibliographyGeneral", please add a short description to the top of this list.
 
-#### KellerJOptSocAm1962.pdf
-Keller, J. B. (1962). Geometrical theory of diffraction. J. Opt. Soc. Amer., 52:116-130. https://doi.org/10.1364/josa.52.000116
-
 #### TakenakaNouvRevueD'Optique1973B.pdf
 Takenaka, H. (1973). General birefringence and general dichroism. Nouv. Rev. Optique, 4:105-107. https://doi.org/10.1088/0335-7368/4/2/306
 
@@ -19,3 +16,6 @@ Takenaka, H. (1973). A unified formalism for polarization optics by using group 
 
 #### TakenakaJpnJApplPhys1975.pdf
 Takenaka, H. and Rikukawa, K. (1975). Rectified optics and edge birefringence. Jap. J. appl. Phys., 14(Suppl. 14-1):429-433. https://doi.org/10.7567/JJAPS.14S1.429
+
+#### KellerJOptSocAm1962.pdf
+Keller, J. B. (1962). Geometrical theory of diffraction. J. Opt. Soc. Amer., 52:116-130. https://doi.org/10.1364/josa.52.000116
