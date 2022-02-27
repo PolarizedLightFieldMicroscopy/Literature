@@ -26,3 +26,6 @@ Oldenbourg, R. (1996). A new view on polarization microscopy. Nature, 381(6585):
 
 ##### OldenbourgJMicNov1995.pdf
 Oldenbourg, R. and Mei, G. (1995). New polarized light microscope with precision universal compensator. J. Microsc., 180:140-147. https://doi.org/10.1111/j.1365-2818.1995.tb03669.x
+
+##### OldenbourgBiophysJ1991.pdf
+Oldenbourg, R. (1991). Analysis of edge birefringence. Biophys. J., 60(3):629-41. https://doi.org/10.1016/S0006-3495(91)82092-6
