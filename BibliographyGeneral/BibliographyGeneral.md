@@ -11,7 +11,7 @@ Takenaka, H. (1973). A unified formalism for polarization optics by using Group 
 **TakenakaJpnJApplPhys1973B.pdf**  
 Takenaka, H. (1973). A unified formalism for polarization optics by using Group Theory II (generator representation). Japan J. appl. Phys., 12:1729-1731. https://doi.org/10.1143/JJAP.12.1729
 
-**TakenakaNouvRevueD'Optique1973A**  
+**TakenakaNouvRevueD'Optique1973A.pdf**  
 Takenaka, H. (1973). A unified formalism for polarization optics by using group theory. Nouvelle Revue d'Optique, 4(1):37-41. https://doi.org/10.1088/0335-7368/4/1/304
 
 **TakenakaJpnJApplPhys1975.pdf**  
