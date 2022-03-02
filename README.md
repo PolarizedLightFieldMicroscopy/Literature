@@ -7,13 +7,13 @@ and a permanent entry in the file BibliographyGeneral.md located in the Bibliogr
 ### 1 Mar 2022
 Shen Y. Rays, waves, SU(2) symmetry and geometry: Toolkits forstructured light. Journal of Optics (United Kingdom), 23(12), 2021. https://doi.org/10.1088/2040-8986/ac3676
 
-Yijie Shen, Zhaoyang Wang, Xing Fu, Darryl Naidoo, and Andrew Forbes. SU(2) Poincare sphere: A generalized representation for multidimensionalstructured light. Physical Review A, 102(3):031501, 2020. https://doi.org/10.1103/PhysRevA.102.031501
+Yijie Shen, Zhaoyang Wang, Xing Fu, Darryl Naidoo, and Andrew Forbes. SU(2) Poincare sphere: A generalized representation for multidimensional structured light. Physical Review A, 102(3):031501, 2020. https://doi.org/10.1103/PhysRevA.102.031501
 
-Salla Gangi Reddy, Shashi Prabhakar, A Aadhi, Ashok Kumar, MeghShah, RP Singh, and R Simon. Measuring the Mueller matrix of anarbitrary optical element with a universal SU(2) polarization gadget. JOSA A, 31(3):610–615, 2014. https://doi.org/10.1364/JOSAA.31.000610
+Salla Gangi Reddy, Shashi Prabhakar, A Aadhi, Ashok Kumar, MeghShah, RP Singh, and R Simon. Measuring the Mueller matrix of an arbitrary optical element with a universal SU(2) polarization gadget. JOSA A, 31(3):610–615, 2014. https://doi.org/10.1364/JOSAA.31.000610
 
 Sibel Baskal and Y. S. Kim. Lorentz Group in Ray and Polarization Optics. arXiv: Mathematical Physics, 2012. https://arxiv.org/abs/1204.5071
 
-Su Z.-K. and Wang J.-H. Measuring Stokes parameters by means of unitaryoperations. Applied Optics, 60(31):9852 – 9857, 2021. https://doi.org/10.1364/AO.439420
+Su Z.-K. and Wang J.-H. Measuring Stokes parameters by means of unitary operations. Applied Optics, 60(31):9852 – 9857, 2021. https://doi.org/10.1364/AO.439420
 
 D. Han, Y. S. Kim, and Marilyn E. Noz. Jones-matrix formalism as arepresentation of the Lorentz group. J. Opt. Soc. Am. A,14(9):2290–2298, Sep 1997. https://doi.org/10.1364/JOSAA.14.002290
 
